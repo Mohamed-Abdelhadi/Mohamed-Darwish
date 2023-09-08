@@ -1,2 +1,4 @@
-# Mohamed-Darwish
-My personal profile
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mohamed 👋 I'm a 🚀 software developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
